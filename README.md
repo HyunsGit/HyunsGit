@@ -2,7 +2,7 @@
 
 **SE/SRE/Devops Engineer** @ DK Techin · 5년차
 
-AWS·KakaoCloud 환경에서 **1,000대 이상의 VM**을 직접 자동화하고, On-Premises → Cloud 전환 경험이 많습니다.  
+AWS·KakaoCloud 환경에서 **1,000대 이상의 VM**을 자동화하고, On-Premises → Cloud 전환 및 Hybrid Cloud 운영 경험이 많습니다.  
 인프라 효율성을 극대화하기 위해 **Python으로 사내 인프라 관리 플랫폼을 자체 개발**했으며,  
 Ansible·Puppet·Prometheus 기반 IaC와 Observability 체계를 직접 설계·구축했습니다.
 
